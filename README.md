@@ -25,10 +25,14 @@ And answering the questions given to us by the CEO of Bike-Share.
 ---
 
 ###  Key Insights
--Members have a hugher total rides count than casuals 
--Average ride duration is 1 minute difrencee from casual and members.
--Casuals shows a pattern of higher ride duration during weekdays rather than weekends 
--Peak days are Tuesday & Wednesday for members 
+-Members have a higher total rides count than casuals.
+
+-Average ride duration is 1 minute diffrence from casual and members.
+
+-Casuals shows a pattern of higher ride duration during weekdays rather than weekends. 
+
+-Peak days are Tuesday & Wednesday for members.
+
 - for casuals= thursday & friday 
 ---
 
@@ -38,9 +42,5 @@ And answering the questions given to us by the CEO of Bike-Share.
 - Looker Studio (visualizations)  
 - GitHub & Notion (documentation & portfolio)
 
----
 
-###  Author
-**Your Name**  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-📧 your.email@example.com
+
