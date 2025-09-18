@@ -8,7 +8,7 @@ And answering the questions given to us by the CEO of Bike-Share.
 ---
 
 ### Repository Structure
-- **`sql/`** → BigQuery SQL scripts (mergin & anlysis)
+- **`sql/`** → BigQuery SQL scripts (merg & analysis)
 - **`docs/case_study_summary.md`** → Full project write-up and cleaning process 
 - **`docs/screenshots/`** → Dashboard images (Looker Studio exports)
 
